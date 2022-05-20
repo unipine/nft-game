@@ -1,0 +1,21 @@
+.all-players-container {
+	display: flex;
+	flex-direction: column;
+	color: white;
+	margin: auto;
+	max-width: 1000px;
+	margin-top: 40px;
+	font-size: 20px;
+	text-align: left;
+}
+
+.header-table { 
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.header-board { 
+	font-size: 24px;
+	font-weight: bold;
+	margin-bottom: 20px;
+}
